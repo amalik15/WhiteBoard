@@ -2,6 +2,8 @@
 
 This project is a whiteboard application built with React, TypeScript, and Vite.
 
+You can view a running version of this project [here](https://amalik15.github.io/WhiteBoard/).
+
 ## Getting Started
 
 ### Prerequisites
